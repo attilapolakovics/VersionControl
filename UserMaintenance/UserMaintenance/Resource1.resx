@@ -123,6 +123,9 @@
   <data name="CSVFiles" xml:space="preserve">
     <value>CSV fájlok</value>
   </data>
+  <data name="Delete" xml:space="preserve">
+    <value>Törlés</value>
+  </data>
   <data name="FullName" xml:space="preserve">
     <value>Teljes név</value>
   </data>
